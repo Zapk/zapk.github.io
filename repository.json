@@ -1,0 +1,34 @@
+{
+	"name": "zapk.github.io",
+	"add-ons":
+	[
+		{
+			"name": "Client_Blockland_Tower",
+			"description": "The client required for playing on Blockland Tower.",
+			"channels":
+			[
+				{
+					"name": "release",
+					"version": "0.0.1",
+					"restartRequired": "0.0.1",
+					"file": "http://zapk.github.io/dl/Client_Blockland_Tower.zip",
+					"changelog": "http://zapk.github.io/dl/Client_Blockland_Tower.changes.txt"
+				}
+			]
+		},
+		{
+			"name": "System_PlayablePiano",
+			"description": "A piano you can play.",
+			"channels":
+			[
+				{
+					"name": "release",
+					"version": "1.0.0",
+					"restartRequired": "1.0.0",
+					"file": "http://zapk.github.io/dl/System_PlayablePiano.zip",
+					"changelog": "http://zapk.github.io/dl/System_PlayablePiano.changes.txt"
+				}
+			]
+		}
+	]
+}
