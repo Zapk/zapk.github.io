@@ -23,8 +23,8 @@
 			[
 				{
 					"name": "release",
-					"version": "1.0.0",
-					"restartRequired": "1.0.0",
+					"version": "1.0.1",
+					"restartRequired": "1.0.1",
 					"file": "http://zapk.github.io/dl/System_PlayablePiano.zip",
 					"changelog": "http://zapk.github.io/dl/System_PlayablePiano.changes.txt"
 				}

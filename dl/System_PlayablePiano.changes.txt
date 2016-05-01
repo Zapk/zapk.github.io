@@ -1,3 +1,5 @@
 <just:center><color:ffffff><font:Arial Bold:20>Playable Piano Changelog<just:left>
+<br><br><lmargin:20><font:Arial:20>Version 1.0.1    <font:Arial:16>30/04/2016<br>
+•  Adds note sounds to the cache, preventing long download times<br>
 <br><br><lmargin:20><font:Arial:20>Version 1.0.0    <font:Arial:16>30/04/2016<br>
 •  Initial release<br>
