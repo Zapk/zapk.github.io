@@ -1,3 +1,5 @@
 <just:center><color:ffffff><font:Arial Bold:20>Blockland Tower Client<just:left>
+<br><br><lmargin:20><font:Arial:20>Version 0.0.2    <font:Arial:16>07/05/2016<br>
+•  A bunch of fuckin shit fuck changelogs<br>
 <br><br><lmargin:20><font:Arial:20>Version 0.0.1    <font:Arial:16>30/04/2016<br>
 •  Initial upload<br>

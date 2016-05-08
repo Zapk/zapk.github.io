@@ -9,8 +9,8 @@
 			[
 				{
 					"name": "release",
-					"version": "0.0.1",
-					"restartRequired": "0.0.1",
+					"version": "0.0.2",
+					"restartRequired": "0.0.2",
 					"file": "http://zapk.github.io/dl/Client_Blockland_Tower.zip",
 					"changelog": "http://zapk.github.io/dl/Client_Blockland_Tower.changes.txt"
 				}
